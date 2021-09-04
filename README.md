@@ -1,9 +1,9 @@
 ### Oi! Eu sou o Mauriney
 
 - 🔭 Atualmente estou trabalhando com front-end
-- 🌱 Atualmente estou aprendendo node.js
+- 🌱 Estou aprendendo node.js
 - 📫 Contate-me no email: maurineyy@gmail.com
-- ⚡ Curiosidade: Ano que vêm eu vou para o Rock in Rio (Dessa vez é sério kkk)
+<!-- - ⚡ Curiosidade: Ano que vêm eu vou para o Rock in Rio (Dessa vez é sério kkk) -->
 
  <div>
   <a href="https://github.com/mauriney">
