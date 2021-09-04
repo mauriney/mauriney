@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando com front-end
 - 🌱 Estou aprendendo node.js
 - 📫 Contate-me no email: maurineyy@gmail.com
-<!-- - ⚡ Curiosidade: Ano que vêm eu vou para o Rock in Rio (Dessa vez é sério kkk) -->
+- ⚡ Curiosidade: Estou participando da primeira turma de mentoria do Bruno Germano
 
  <div>
   <a href="https://github.com/mauriney">
