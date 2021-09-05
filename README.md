@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando com front-end
 - 🌱 Estou aprendendo node.js
 - 📫 Contate-me no email: maurineyy@gmail.com
-- ⚡ Curiosidade: Estou participando da primeira turma de mentoria do <a href="https://github.com/egermano" target="_blank">Bruno Germano </a>
+- ⚡ Curiosidade: Estou participando da primeira turma de mentoria do <a href="https://github.com/egermano">Bruno Germano </a>
 
  <div>
   <a href="https://github.com/mauriney">
