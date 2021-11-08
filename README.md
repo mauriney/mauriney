@@ -1,9 +1,11 @@
-### Oi! Eu sou o Mauriney
+### Oi! Eu sou o Mauriney, Desenvolvedor Back-end
 
+<!--
 - 🔭 Atualmente estou trabalhando com back-end
 - 🌱 Estou aprendendo node.js
 - 📫 Contate-me no email: maurineyy@gmail.com
 - ⚡ Curiosidade: Estou participando da primeira turma de mentoria do <a href="https://github.com/egermano">Bruno Germano </a>
+ -->
 
  <div>
   <a href="https://github.com/mauriney">
